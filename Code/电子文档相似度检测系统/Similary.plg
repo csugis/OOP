@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Similary - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP12B.tmp" with contents
+[
+/nologo /o"Debug/Similary.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\APPMODUL.SBR"
+".\Debug\Choose.sbr"
+".\Debug\Count.sbr"
+".\Debug\HexView.sbr"
+".\Debug\JuziSimilar.sbr"
+".\Debug\LeftView.sbr"
+".\Debug\Liulan1.sbr"
+".\Debug\Longth.sbr"
+".\Debug\MainFrm.sbr"
+".\Debug\OutputSen.sbr"
+".\Debug\Paragraph.sbr"
+".\Debug\RightView.sbr"
+".\Debug\ShowSenSim.sbr"
+".\Debug\Showsim.sbr"
+".\Debug\Similary.sbr"
+".\Debug\SimilaryDoc.sbr"
+".\Debug\SimilaryView.sbr"
+".\Debug\SimPart.sbr"
+".\Debug\Splash.sbr"
+".\Debug\tipy.sbr"
+".\Debug\Xuanze.sbr"
+".\Debug\Xuanze2.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP12B.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Similary.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,3547 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+	<name>桂西-滇东南锰矿床、矿（化）点一览表</name>
+	<Placemark>
+		<name>下雷锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>1</td></tr><tr><td>矿床名称</td><td>下雷锰矿</td></tr><tr><td>地理经度</td><td>1064220</td></tr><tr><td>地理纬度</td><td>225420</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>1</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>139602</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.702,22.9061,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>遵义锰矿沙坝矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>2</td></tr><tr><td>矿床名称</td><td>遵义锰矿沙坝矿区</td></tr><tr><td>地理经度</td><td>1065825</td></tr><tr><td>地理纬度</td><td>252738</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>2</td></tr><tr><td>成矿时代</td><td>P3</td></tr><tr><td>资源量（千吨）</td><td>21319</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.968,25.4569,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>湖润锰矿巡屯矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>3</td></tr><tr><td>矿床名称</td><td>湖润锰矿巡屯矿段</td></tr><tr><td>地理经度</td><td>1063859</td></tr><tr><td>地理纬度</td><td>225632</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>2</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>13971</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.635,22.9394,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿新冠矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>4</td></tr><tr><td>矿床名称</td><td>个旧锡矿新冠矿区</td></tr><tr><td>地理经度</td><td>1031900</td></tr><tr><td>地理纬度</td><td>232200</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>37963</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.318,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>东平锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>5</td></tr><tr><td>矿床名称</td><td>东平锰矿</td></tr><tr><td>地理经度</td><td>1070830</td></tr><tr><td>地理纬度</td><td>231710</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>19023</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.135,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>斗南锰矿戛科-白姑山</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>6</td></tr><tr><td>矿床名称</td><td>斗南锰矿戛科-白姑山</td></tr><tr><td>地理经度</td><td>1034300</td></tr><tr><td>地理纬度</td><td>233600</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>14455</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.718,23.6064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>若兰锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>7</td></tr><tr><td>矿床名称</td><td>若兰锰矿点</td></tr><tr><td>地理经度</td><td>1065122</td></tr><tr><td>地理纬度</td><td>230905</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>C、D</td></tr><tr><td>资源量（千吨）</td><td>12000</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.852,23.1564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙邦锰矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>8</td></tr><tr><td>矿床名称</td><td>龙邦锰矿区</td></tr><tr><td>地理经度</td><td>1061809</td></tr><tr><td>地理纬度</td><td>225420</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>7719.6</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.302,22.9061,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>扑隆锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>9</td></tr><tr><td>矿床名称</td><td>扑隆锰矿</td></tr><tr><td>地理经度</td><td>1063648</td></tr><tr><td>地理纬度</td><td>224525</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>7182.3</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.602,22.7561,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>阿都戛</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>10</td></tr><tr><td>矿床名称</td><td>阿都戛</td></tr><tr><td>地理经度</td><td>1043054</td></tr><tr><td>地理纬度</td><td>263248</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>P1m</td></tr><tr><td>资源量（千吨）</td><td>6608</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.501,26.5406,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大石板</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>11</td></tr><tr><td>矿床名称</td><td>大石板</td></tr><tr><td>地理经度</td><td>1033343</td></tr><tr><td>地理纬度</td><td>232719</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>6608</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.551,23.4564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>红石岩</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>12</td></tr><tr><td>矿床名称</td><td>红石岩</td></tr><tr><td>地理经度</td><td>1040920</td></tr><tr><td>地理纬度</td><td>262159</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>P1m</td></tr><tr><td>资源量（千吨）</td><td>6608</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.151,26.3572,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>淌甸</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>13</td></tr><tr><td>矿床名称</td><td>淌甸</td></tr><tr><td>地理经度</td><td>1031024</td></tr><tr><td>地理纬度</td><td>233350</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>6608</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.168,23.5564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>湖润锰矿茶屯矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>14</td></tr><tr><td>矿床名称</td><td>湖润锰矿茶屯矿段</td></tr><tr><td>地理经度</td><td>1063800</td></tr><tr><td>地理纬度</td><td>225500</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>6463</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.635,22.9228,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙怀锰矿区龙怀矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>15</td></tr><tr><td>矿床名称</td><td>龙怀锰矿区龙怀矿段</td></tr><tr><td>地理经度</td><td>1070300</td></tr><tr><td>地理纬度</td><td>231743</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>5722.2</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.052,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>足荣锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>16</td></tr><tr><td>矿床名称</td><td>足荣锰矿</td></tr><tr><td>地理经度</td><td>1064521</td></tr><tr><td>地理纬度</td><td>232205</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>5315</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.752,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>波罗岗锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>17</td></tr><tr><td>矿床名称</td><td>波罗岗锰矿点</td></tr><tr><td>地理经度</td><td>1063810</td></tr><tr><td>地理纬度</td><td>225700</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>5072.7</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.635,22.9561,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>格学锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>18</td></tr><tr><td>矿床名称</td><td>格学锰矿</td></tr><tr><td>地理经度</td><td>1043520</td></tr><tr><td>地理纬度</td><td>262727</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>P3</td></tr><tr><td>资源量（千吨）</td><td>4419</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.584,26.4572,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>土湖锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>19</td></tr><tr><td>矿床名称</td><td>土湖锰矿</td></tr><tr><td>地理经度</td><td>1064840</td></tr><tr><td>地理纬度</td><td>230130</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>4393</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.802,23.0231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>湖润锰矿内伏矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>20</td></tr><tr><td>矿床名称</td><td>湖润锰矿内伏矿段</td></tr><tr><td>地理经度</td><td>1064020</td></tr><tr><td>地理纬度</td><td>225650</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>3164</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.668,22.9394,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>新兴锰矿（靖西锰矿）</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>21</td></tr><tr><td>矿床名称</td><td>新兴锰矿（靖西锰矿）</td></tr><tr><td>地理经度</td><td>1063938</td></tr><tr><td>地理纬度</td><td>225457</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>2870</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.652,22.9061,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙怀江城矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>22</td></tr><tr><td>矿床名称</td><td>龙怀江城矿段</td></tr><tr><td>地理经度</td><td>1070300</td></tr><tr><td>地理纬度</td><td>231743</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>2700</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.052,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>那利锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>23</td></tr><tr><td>矿床名称</td><td>那利锰矿</td></tr><tr><td>地理经度</td><td>1070100</td></tr><tr><td>地理纬度</td><td>230900</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>3</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>2585.4</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.019,23.1564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿古山采选厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>24</td></tr><tr><td>矿床名称</td><td>个旧锡矿古山采选厂</td></tr><tr><td>地理经度</td><td>1031500</td></tr><tr><td>地理纬度</td><td>232300</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>28508</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.251,23.3897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿老厂采选厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>25</td></tr><tr><td>矿床名称</td><td>个旧锡矿老厂采选厂</td></tr><tr><td>地理经度</td><td>1031223</td></tr><tr><td>地理纬度</td><td>231807</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>3902</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.201,23.3064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岩子脚锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>26</td></tr><tr><td>矿床名称</td><td>岩子脚锰矿</td></tr><tr><td>地理经度</td><td>1033350</td></tr><tr><td>地理纬度</td><td>232700</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>3675</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.551,23.4564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿期北采选厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>27</td></tr><tr><td>矿床名称</td><td>个旧锡矿期北采选厂</td></tr><tr><td>地理经度</td><td>1031730</td></tr><tr><td>地理纬度</td><td>231630</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>3274</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.284,23.2731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>老乌锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>28</td></tr><tr><td>矿床名称</td><td>老乌锰矿</td></tr><tr><td>地理经度</td><td>1035154</td></tr><tr><td>地理纬度</td><td>233836</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>3272</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.851,23.6397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>斗南锰矿卡他矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>29</td></tr><tr><td>矿床名称</td><td>斗南锰矿卡他矿段</td></tr><tr><td>地理经度</td><td>1034300</td></tr><tr><td>地理纬度</td><td>233600</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>1359</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.718,23.6064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿马拉格矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>30</td></tr><tr><td>矿床名称</td><td>个旧锡矿马拉格矿区</td></tr><tr><td>地理经度</td><td>1031130</td></tr><tr><td>地理纬度</td><td>232250</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>1222</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.184,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>太平锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>31</td></tr><tr><td>矿床名称</td><td>太平锰矿点</td></tr><tr><td>地理经度</td><td>1070115</td></tr><tr><td>地理纬度</td><td>231646</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>1180</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.019,23.2731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙怀矿区那社矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>32</td></tr><tr><td>矿床名称</td><td>龙怀矿区那社矿段</td></tr><tr><td>地理经度</td><td>1070529</td></tr><tr><td>地理纬度</td><td>231800</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>1051</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.085,23.3064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿卡房采选厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>33</td></tr><tr><td>矿床名称</td><td>个旧锡矿卡房采选厂</td></tr><tr><td>地理经度</td><td>1031100</td></tr><tr><td>地理纬度</td><td>231300</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>988</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.184,23.2231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>长田寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>34</td></tr><tr><td>矿床名称</td><td>长田寨</td></tr><tr><td>地理经度</td><td>1034648</td></tr><tr><td>地理纬度</td><td>233748</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.768,23.6231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>斗果</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>35</td></tr><tr><td>矿床名称</td><td>斗果</td></tr><tr><td>地理经度</td><td>1042128</td></tr><tr><td>地理纬度</td><td>234828</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.351,23.8064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>富宁县洞波乡至周锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>36</td></tr><tr><td>矿床名称</td><td>富宁县洞波乡至周锰矿</td></tr><tr><td>地理经度</td><td>1054239-1054628</td></tr><tr><td>地理纬度</td><td>234254-234504</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>D1</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>
+					105.735,23.7314,0
+				</coordinates>
+			</Point>
+			<LineString>
+				<coordinates>
+					105.701,23.7064,0
+					105.768,23.7564,0
+				</coordinates>
+			</LineString>
+			<LineString>
+				<coordinates>
+					105.701,23.7564,0
+					105.768,23.7064,0
+				</coordinates>
+			</LineString>
+			<Polygon>
+				<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.701,23.7064,0
+						105.768,23.7064,0
+						105.768,23.7564,0
+						105.701,23.7564,0
+						105.701,23.7064,0
+					</coordinates>
+				</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>富宁县花甲乡大宝山锰</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>37</td></tr><tr><td>矿床名称</td><td>富宁县花甲乡大宝山锰</td></tr><tr><td>地理经度</td><td>1053710-1054707</td></tr><tr><td>地理纬度</td><td>234857-235112</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>D2</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>
+					105.701,23.8314,0
+				</coordinates>
+			</Point>
+			<LineString>
+				<coordinates>
+					105.618,23.8064,0
+					105.785,23.8564,0
+				</coordinates>
+			</LineString>
+			<LineString>
+				<coordinates>
+					105.618,23.8564,0
+					105.785,23.8064,0
+				</coordinates>
+			</LineString>
+			<Polygon>
+				<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.618,23.8064,0
+						105.785,23.8064,0
+						105.785,23.8564,0
+						105.618,23.8564,0
+						105.618,23.8064,0
+					</coordinates>
+				</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>富宁县新华镇坡油锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>38</td></tr><tr><td>矿床名称</td><td>富宁县新华镇坡油锰矿</td></tr><tr><td>地理经度</td><td>1053256-1053346</td></tr><tr><td>地理纬度</td><td>233702-233916</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>D1</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>
+					105.543,23.6397,0
+				</coordinates>
+			</Point>
+			<LineString>
+				<coordinates>
+					105.535,23.6231,0
+					105.551,23.6564,0
+				</coordinates>
+			</LineString>
+			<LineString>
+				<coordinates>
+					105.535,23.6564,0
+					105.551,23.6231,0
+				</coordinates>
+			</LineString>
+			<Polygon>
+				<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						105.535,23.6231,0
+						105.551,23.6231,0
+						105.551,23.6564,0
+						105.535,23.6564,0
+						105.535,23.6231,0
+					</coordinates>
+				</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>赶马底</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>39</td></tr><tr><td>矿床名称</td><td>赶马底</td></tr><tr><td>地理经度</td><td>1033209</td></tr><tr><td>地理纬度</td><td>232632</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.534,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿黄茅山采选厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>40</td></tr><tr><td>矿床名称</td><td>个旧锡矿黄茅山采选厂</td></tr><tr><td>地理经度</td><td>1031913</td></tr><tr><td>地理纬度</td><td>232234</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.318,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>个旧锡矿松树脚矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>41</td></tr><tr><td>矿床名称</td><td>个旧锡矿松树脚矿区</td></tr><tr><td>地理经度</td><td>1031458</td></tr><tr><td>地理纬度</td><td>232045</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.234,23.3397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>广南县那伦乡老龙锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>42</td></tr><tr><td>矿床名称</td><td>广南县那伦乡老龙锰矿</td></tr><tr><td>地理经度</td><td>1045617-1050111</td></tr><tr><td>地理纬度</td><td>240552-240757</td></tr><tr><td>矿床成因类</td><td>伟晶岩矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>D2</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>
+					104.976,24.1067,0
+				</coordinates>
+			</Point>
+			<LineString>
+				<coordinates>
+					104.934,24.09,0
+					105.018,24.1233,0
+				</coordinates>
+			</LineString>
+			<LineString>
+				<coordinates>
+					104.934,24.1233,0
+					105.018,24.09,0
+				</coordinates>
+			</LineString>
+			<Polygon>
+				<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						104.934,24.09,0
+						105.018,24.09,0
+						105.018,24.1233,0
+						104.934,24.1233,0
+						104.934,24.09,0
+					</coordinates>
+				</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>开远市中和乡大平寨锰</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>43</td></tr><tr><td>矿床名称</td><td>开远市中和乡大平寨锰</td></tr><tr><td>地理经度</td><td>1033600</td></tr><tr><td>地理纬度</td><td>234400</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.601,23.7397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>老鹰窝</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>44</td></tr><tr><td>矿床名称</td><td>老鹰窝</td></tr><tr><td>地理经度</td><td>1030423</td></tr><tr><td>地理纬度</td><td>240229</td></tr><tr><td>矿床成因类</td><td>热液型</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.068,24.04,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>六柴冲</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>45</td></tr><tr><td>矿床名称</td><td>六柴冲</td></tr><tr><td>地理经度</td><td>1041753</td></tr><tr><td>地理纬度</td><td>233034</td></tr><tr><td>矿床成因类</td><td>沉积、热液</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>D2d</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.284,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>砚山县平远街镇蒲草锰</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>46</td></tr><tr><td>矿床名称</td><td>砚山县平远街镇蒲草锰</td></tr><tr><td>地理经度</td><td>1035200-1035400</td></tr><tr><td>地理纬度</td><td>234600-234700</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>866</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>
+					103.884,23.7814,0
+				</coordinates>
+			</Point>
+			<LineString>
+				<coordinates>
+					103.867,23.7731,0
+					103.901,23.7897,0
+				</coordinates>
+			</LineString>
+			<LineString>
+				<coordinates>
+					103.867,23.7897,0
+					103.901,23.7731,0
+				</coordinates>
+			</LineString>
+			<Polygon>
+				<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						103.867,23.7731,0
+						103.901,23.7731,0
+						103.901,23.7897,0
+						103.867,23.7897,0
+						103.867,23.7731,0
+					</coordinates>
+				</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>那标-六里钴锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>47</td></tr><tr><td>矿床名称</td><td>那标-六里钴锰矿</td></tr><tr><td>地理经度</td><td>1075900</td></tr><tr><td>地理纬度</td><td>223320</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>641</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.985,22.5561,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>斗南锰矿米里克矿段</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>48</td></tr><tr><td>矿床名称</td><td>斗南锰矿米里克矿段</td></tr><tr><td>地理经度</td><td>1034300</td></tr><tr><td>地理纬度</td><td>233500</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>276</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.718,23.5897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>把荷锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>49</td></tr><tr><td>矿床名称</td><td>把荷锰矿</td></tr><tr><td>地理经度</td><td>1065059</td></tr><tr><td>地理纬度</td><td>230853</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>259</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.835,23.1397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>开远市卧龙谷乡麻栗坡</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>50</td></tr><tr><td>矿床名称</td><td>开远市卧龙谷乡麻栗坡</td></tr><tr><td>地理经度</td><td>1031434</td></tr><tr><td>地理纬度</td><td>233557</td></tr><tr><td>矿床成因类</td><td>风化矿床</td></tr><tr><td>矿床规模</td><td>4</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>173</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.234,23.5897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>六城锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>51</td></tr><tr><td>矿床名称</td><td>六城锰矿点</td></tr><tr><td>地理经度</td><td>1070400</td></tr><tr><td>地理纬度</td><td>232330</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>741.8</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.069,23.3897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>爱屯锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>52</td></tr><tr><td>矿床名称</td><td>爱屯锰矿点</td></tr><tr><td>地理经度</td><td>1064600</td></tr><tr><td>地理纬度</td><td>230130</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>606.8</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.768,23.0231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>阿控</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>53</td></tr><tr><td>矿床名称</td><td>阿控</td></tr><tr><td>地理经度</td><td>1035444</td></tr><tr><td>地理纬度</td><td>234937</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.901,23.8231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>安东锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>54</td></tr><tr><td>矿床名称</td><td>安东锰矿点</td></tr><tr><td>地理经度</td><td>1071300</td></tr><tr><td>地理纬度</td><td>235400</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.219,23.9064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>安岗坡</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>55</td></tr><tr><td>矿床名称</td><td>安岗坡</td></tr><tr><td>地理经度</td><td>1053414</td></tr><tr><td>地理纬度</td><td>233734</td></tr><tr><td>矿床成因类</td><td>锰帽、迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D1p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.568,23.6231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>安宁锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>56</td></tr><tr><td>矿床名称</td><td>安宁锰矿点</td></tr><tr><td>地理经度</td><td>1061620</td></tr><tr><td>地理纬度</td><td>225810</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.268,22.9728,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>安宁锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>57</td></tr><tr><td>矿床名称</td><td>安宁锰矿点</td></tr><tr><td>地理经度</td><td>1061630</td></tr><tr><td>地理纬度</td><td>225600</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.268,22.9394,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>八盘寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>58</td></tr><tr><td>矿床名称</td><td>八盘寨</td></tr><tr><td>地理经度</td><td>1031702</td></tr><tr><td>地理纬度</td><td>234030</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.284,23.6731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>巴江锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>59</td></tr><tr><td>矿床名称</td><td>巴江锰矿点</td></tr><tr><td>地理经度</td><td>1065530</td></tr><tr><td>地理纬度</td><td>230730</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.918,23.1231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>巴麻锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>60</td></tr><tr><td>矿床名称</td><td>巴麻锰矿点</td></tr><tr><td>地理经度</td><td>1070600</td></tr><tr><td>地理纬度</td><td>232200</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.102,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>巴依锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>61</td></tr><tr><td>矿床名称</td><td>巴依锰矿点</td></tr><tr><td>地理经度</td><td>1064800</td></tr><tr><td>地理纬度</td><td>225100</td></tr><tr><td>矿床成因类</td><td>堆积型</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.802,22.8561,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岜样</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>62</td></tr><tr><td>矿床名称</td><td>岜样</td></tr><tr><td>地理经度</td><td>1075554</td></tr><tr><td>地理纬度</td><td>232307</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.919,23.3897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>白沙村</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>63</td></tr><tr><td>矿床名称</td><td>白沙村</td></tr><tr><td>地理经度</td><td>1035737</td></tr><tr><td>地理纬度</td><td>233129</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.951,23.5231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>崩土坎</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>64</td></tr><tr><td>矿床名称</td><td>崩土坎</td></tr><tr><td>地理经度</td><td>1044248</td></tr><tr><td>地理纬度</td><td>231531</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.701,23.2564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>碧松就</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>65</td></tr><tr><td>矿床名称</td><td>碧松就</td></tr><tr><td>地理经度</td><td>1041631</td></tr><tr><td>地理纬度</td><td>240210</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.268,24.04,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>查尼皮</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>66</td></tr><tr><td>矿床名称</td><td>查尼皮</td></tr><tr><td>地理经度</td><td>1033021</td></tr><tr><td>地理纬度</td><td>232115</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.501,23.3564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>常海</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>67</td></tr><tr><td>矿床名称</td><td>常海</td></tr><tr><td>地理经度</td><td>1054222</td></tr><tr><td>地理纬度</td><td>233839</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.701,23.6397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>打厂坡</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>68</td></tr><tr><td>矿床名称</td><td>打厂坡</td></tr><tr><td>地理经度</td><td>1044401</td></tr><tr><td>地理纬度</td><td>231822</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.3064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大冲</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>69</td></tr><tr><td>矿床名称</td><td>大冲</td></tr><tr><td>地理经度</td><td>1041018</td></tr><tr><td>地理纬度</td><td>241749</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.168,24.29,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大地</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>70</td></tr><tr><td>矿床名称</td><td>大地</td></tr><tr><td>地理经度</td><td>1053315</td></tr><tr><td>地理纬度</td><td>233429</td></tr><tr><td>矿床成因类</td><td>迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.551,23.5731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大各大</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>71</td></tr><tr><td>矿床名称</td><td>大各大</td></tr><tr><td>地理经度</td><td>1043122</td></tr><tr><td>地理纬度</td><td>234807</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.518,23.8064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大沟村</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>72</td></tr><tr><td>矿床名称</td><td>大沟村</td></tr><tr><td>地理经度</td><td>1031552</td></tr><tr><td>地理纬度</td><td>234840</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.251,23.8064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大果腊锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>73</td></tr><tr><td>矿床名称</td><td>大果腊锰矿点</td></tr><tr><td>地理经度</td><td>1055730</td></tr><tr><td>地理纬度</td><td>231959</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.951,23.3231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大陇锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>74</td></tr><tr><td>矿床名称</td><td>大陇锰矿点</td></tr><tr><td>地理经度</td><td>1061200</td></tr><tr><td>地理纬度</td><td>230300</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.202,23.0564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大舍姑</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>75</td></tr><tr><td>矿床名称</td><td>大舍姑</td></tr><tr><td>地理经度</td><td>1034847</td></tr><tr><td>地理纬度</td><td>234700</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.801,23.7897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大旺锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>76</td></tr><tr><td>矿床名称</td><td>大旺锰矿点</td></tr><tr><td>地理经度</td><td>1064900</td></tr><tr><td>地理纬度</td><td>231750</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.818,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>底隘锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>77</td></tr><tr><td>矿床名称</td><td>底隘锰矿点</td></tr><tr><td>地理经度</td><td>1055900</td></tr><tr><td>地理纬度</td><td>230500</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.985,23.0897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>地州</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>78</td></tr><tr><td>矿床名称</td><td>地州</td></tr><tr><td>地理经度</td><td>1062256</td></tr><tr><td>地理纬度</td><td>230112</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D3l</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.368,23.0231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>甸头</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>79</td></tr><tr><td>矿床名称</td><td>甸头</td></tr><tr><td>地理经度</td><td>1030924</td></tr><tr><td>地理纬度</td><td>233228</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.151,23.5397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>定古</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>80</td></tr><tr><td>矿床名称</td><td>定古</td></tr><tr><td>地理经度</td><td>1031653</td></tr><tr><td>地理纬度</td><td>233844</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.268,23.6397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>定占</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>81</td></tr><tr><td>矿床名称</td><td>定占</td></tr><tr><td>地理经度</td><td>1031301</td></tr><tr><td>地理纬度</td><td>234331</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.218,23.7231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>豆鼓店</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>82</td></tr><tr><td>矿床名称</td><td>豆鼓店</td></tr><tr><td>地理经度</td><td>1044350</td></tr><tr><td>地理纬度</td><td>230252</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.718,23.0397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>多敬锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>83</td></tr><tr><td>矿床名称</td><td>多敬锰矿点</td></tr><tr><td>地理经度</td><td>1062015</td></tr><tr><td>地理纬度</td><td>232440</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C、T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.335,23.4064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>菲白泥</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>84</td></tr><tr><td>矿床名称</td><td>菲白泥</td></tr><tr><td>地理经度</td><td>1035016</td></tr><tr><td>地理纬度</td><td>233844</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.834,23.6397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>嘎暖锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>85</td></tr><tr><td>矿床名称</td><td>嘎暖锰矿点</td></tr><tr><td>地理经度</td><td>1064900</td></tr><tr><td>地理纬度</td><td>230524</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.818,23.0897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>干江</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>86</td></tr><tr><td>矿床名称</td><td>干江</td></tr><tr><td>地理经度</td><td>1073441</td></tr><tr><td>地理纬度</td><td>245858</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C2</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.569,24.9733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>甘塘子</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>87</td></tr><tr><td>矿床名称</td><td>甘塘子</td></tr><tr><td>地理经度</td><td>1032018</td></tr><tr><td>地理纬度</td><td>241349</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.334,24.2233,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>赶马坡</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>88</td></tr><tr><td>矿床名称</td><td>赶马坡</td></tr><tr><td>地理经度</td><td>1031116</td></tr><tr><td>地理纬度</td><td>233450</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.184,23.5731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>感怀</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>89</td></tr><tr><td>矿床名称</td><td>感怀</td></tr><tr><td>地理经度</td><td>1075312</td></tr><tr><td>地理纬度</td><td>232406</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.885,23.4064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>各地坪</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>90</td></tr><tr><td>矿床名称</td><td>各地坪</td></tr><tr><td>地理经度</td><td>1053135</td></tr><tr><td>地理纬度</td><td>232430</td></tr><tr><td>矿床成因类</td><td>迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（∈3b</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.518,23.4064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>各甫</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>91</td></tr><tr><td>矿床名称</td><td>各甫</td></tr><tr><td>地理经度</td><td>1053426</td></tr><tr><td>地理纬度</td><td>233939</td></tr><tr><td>矿床成因类</td><td>锰帽、迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D1b</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.568,23.6564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>各门</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>92</td></tr><tr><td>矿床名称</td><td>各门</td></tr><tr><td>地理经度</td><td>1054402</td></tr><tr><td>地理纬度</td><td>234014</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.735,23.6731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>古勒</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>93</td></tr><tr><td>矿床名称</td><td>古勒</td></tr><tr><td>地理经度</td><td>1042316</td></tr><tr><td>地理纬度</td><td>235856</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.384,23.9731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>果古锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>94</td></tr><tr><td>矿床名称</td><td>果古锰矿点</td></tr><tr><td>地理经度</td><td>1055900</td></tr><tr><td>地理纬度</td><td>230000</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.985,23.0064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>河边</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>95</td></tr><tr><td>矿床名称</td><td>河边</td></tr><tr><td>地理经度</td><td>1044405</td></tr><tr><td>地理纬度</td><td>231907</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.3231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>红石岩</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>96</td></tr><tr><td>矿床名称</td><td>红石岩</td></tr><tr><td>地理经度</td><td>1035303</td></tr><tr><td>地理纬度</td><td>235023</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.884,23.8397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>花桂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>97</td></tr><tr><td>矿床名称</td><td>花桂</td></tr><tr><td>地理经度</td><td>1041526</td></tr><tr><td>地理纬度</td><td>240005</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.251,24.0067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>花鱼塘</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>98</td></tr><tr><td>矿床名称</td><td>花鱼塘</td></tr><tr><td>地理经度</td><td>1035116</td></tr><tr><td>地理纬度</td><td>234958</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.851,23.8231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>皇粮田</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>99</td></tr><tr><td>矿床名称</td><td>皇粮田</td></tr><tr><td>地理经度</td><td>1032552</td></tr><tr><td>地理纬度</td><td>235940</td></tr><tr><td>矿床成因类</td><td>沉积、淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.418,23.9897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>惠水县问孔</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>100</td></tr><tr><td>矿床名称</td><td>惠水县问孔</td></tr><tr><td>地理经度</td><td>1064558</td></tr><tr><td>地理纬度</td><td>260813</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>640</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.752,26.1406,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>加租</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>101</td></tr><tr><td>矿床名称</td><td>加租</td></tr><tr><td>地理经度</td><td>1034536</td></tr><tr><td>地理纬度</td><td>241340</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.751,24.2233,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>街屯锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>102</td></tr><tr><td>矿床名称</td><td>街屯锰矿点</td></tr><tr><td>地理经度</td><td>1061500</td></tr><tr><td>地理纬度</td><td>231220</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.252,23.2064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>昆努</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>103</td></tr><tr><td>矿床名称</td><td>昆努</td></tr><tr><td>地理经度</td><td>1054227</td></tr><tr><td>地理纬度</td><td>233742</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T2b6</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.701,23.6231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>拉要</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>104</td></tr><tr><td>矿床名称</td><td>拉要</td></tr><tr><td>地理经度</td><td>1073230</td></tr><tr><td>地理纬度</td><td>245944</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.535,24.99,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>辣子寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>105</td></tr><tr><td>矿床名称</td><td>辣子寨</td></tr><tr><td>地理经度</td><td>1043208</td></tr><tr><td>地理纬度</td><td>225239</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>∈21(?)</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.534,22.8728,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>乐多</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>106</td></tr><tr><td>矿床名称</td><td>乐多</td></tr><tr><td>地理经度</td><td>1031344</td></tr><tr><td>地理纬度</td><td>241622</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（C2）</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.218,24.2733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>莲花塘</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>107</td></tr><tr><td>矿床名称</td><td>莲花塘</td></tr><tr><td>地理经度</td><td>1031726</td></tr><tr><td>地理纬度</td><td>234029</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.284,23.6731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>灵岗锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>108</td></tr><tr><td>矿床名称</td><td>灵岗锰矿点</td></tr><tr><td>地理经度</td><td>1062000</td></tr><tr><td>地理纬度</td><td>230800</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.335,23.1397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>灵马</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>109</td></tr><tr><td>矿床名称</td><td>灵马</td></tr><tr><td>地理经度</td><td>1075422</td></tr><tr><td>地理纬度</td><td>232217</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床-</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.902,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>灵塘</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>110</td></tr><tr><td>矿床名称</td><td>灵塘</td></tr><tr><td>地理经度</td><td>1074901</td></tr><tr><td>地理纬度</td><td>232115</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>c1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.819,23.3564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>凌念锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>111</td></tr><tr><td>矿床名称</td><td>凌念锰矿点</td></tr><tr><td>地理经度</td><td>1063800</td></tr><tr><td>地理纬度</td><td>231700</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.635,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>六能</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>112</td></tr><tr><td>矿床名称</td><td>六能</td></tr><tr><td>地理经度</td><td>1065128</td></tr><tr><td>地理纬度</td><td>240645</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1y</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.852,24.1067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>六算</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>113</td></tr><tr><td>矿床名称</td><td>六算</td></tr><tr><td>地理经度</td><td>1070816</td></tr><tr><td>地理纬度</td><td>235624</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床-</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1m</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.135,23.9397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙临锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>114</td></tr><tr><td>矿床名称</td><td>龙临锰矿点</td></tr><tr><td>地理经度</td><td>1061120</td></tr><tr><td>地理纬度</td><td>231420</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.185,23.2397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙潭</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>115</td></tr><tr><td>矿床名称</td><td>龙潭</td></tr><tr><td>地理经度</td><td>1031820</td></tr><tr><td>地理纬度</td><td>235924</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.301,23.9897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>陇光锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>116</td></tr><tr><td>矿床名称</td><td>陇光锰矿点</td></tr><tr><td>地理经度</td><td>1064515</td></tr><tr><td>地理纬度</td><td>231000</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.752,23.1731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>洛岸</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>117</td></tr><tr><td>矿床名称</td><td>洛岸</td></tr><tr><td>地理经度</td><td>1074814</td></tr><tr><td>地理纬度</td><td>242659</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.802,24.44,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>落太邑</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>118</td></tr><tr><td>矿床名称</td><td>落太邑</td></tr><tr><td>地理经度</td><td>1035745</td></tr><tr><td>地理纬度</td><td>234802</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.951,23.8064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>马隘锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>119</td></tr><tr><td>矿床名称</td><td>马隘锰矿点</td></tr><tr><td>地理经度</td><td>1063330</td></tr><tr><td>地理纬度</td><td>232120</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.552,23.3564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>蒙古坡</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>120</td></tr><tr><td>矿床名称</td><td>蒙古坡</td></tr><tr><td>地理经度</td><td>1035613</td></tr><tr><td>地理纬度</td><td>233003</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.934,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>孟麻锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>121</td></tr><tr><td>矿床名称</td><td>孟麻锰矿点</td></tr><tr><td>地理经度</td><td>1060340</td></tr><tr><td>地理纬度</td><td>230000</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.052,23.0064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>摩依柏</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>122</td></tr><tr><td>矿床名称</td><td>摩依柏</td></tr><tr><td>地理经度</td><td>1031832</td></tr><tr><td>地理纬度</td><td>234202</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.301,23.7064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>木底</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>123</td></tr><tr><td>矿床名称</td><td>木底</td></tr><tr><td>地理经度</td><td>1050725</td></tr><tr><td>地理纬度</td><td>240730</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.118,24.1233,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>木甲</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>124</td></tr><tr><td>矿床名称</td><td>木甲</td></tr><tr><td>地理经度</td><td>1053238</td></tr><tr><td>地理纬度</td><td>232127</td></tr><tr><td>矿床成因类</td><td>迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（∈3b</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.535,23.3564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>木龙</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>125</td></tr><tr><td>矿床名称</td><td>木龙</td></tr><tr><td>地理经度</td><td>1033458</td></tr><tr><td>地理纬度</td><td>241324</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.568,24.2233,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>那板锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>126</td></tr><tr><td>矿床名称</td><td>那板锰矿点</td></tr><tr><td>地理经度</td><td>1071300</td></tr><tr><td>地理纬度</td><td>232500</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.219,23.4231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>那茶锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>127</td></tr><tr><td>矿床名称</td><td>那茶锰矿点</td></tr><tr><td>地理经度</td><td>1064000</td></tr><tr><td>地理纬度</td><td>231400</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.668,23.2397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>那香</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>128</td></tr><tr><td>矿床名称</td><td>那香</td></tr><tr><td>地理经度</td><td>1075822</td></tr><tr><td>地理纬度</td><td>232625</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床-</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.969,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>南坡锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>129</td></tr><tr><td>矿床名称</td><td>南坡锰矿点</td></tr><tr><td>地理经度</td><td>1060250</td></tr><tr><td>地理纬度</td><td>230700</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.035,23.1231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>腻革龙</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>130</td></tr><tr><td>矿床名称</td><td>腻革龙</td></tr><tr><td>地理经度</td><td>1034359</td></tr><tr><td>地理纬度</td><td>235530</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.718,23.9231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>淰井锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>131</td></tr><tr><td>矿床名称</td><td>淰井锰矿点</td></tr><tr><td>地理经度</td><td>1055200</td></tr><tr><td>地理纬度</td><td>225730</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.868,22.9561,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>牛厩房</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>132</td></tr><tr><td>矿床名称</td><td>牛厩房</td></tr><tr><td>地理经度</td><td>1031003</td></tr><tr><td>地理纬度</td><td>240857</td></tr><tr><td>矿床成因类</td><td>铁锰帽型</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P1m</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.168,24.14,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>平莫</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>133</td></tr><tr><td>矿床名称</td><td>平莫</td></tr><tr><td>地理经度</td><td>1053431</td></tr><tr><td>地理纬度</td><td>233823</td></tr><tr><td>矿床成因类</td><td>锰帽、迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D1p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.568,23.6397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>屏边县旧庄科</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>134</td></tr><tr><td>矿床名称</td><td>屏边县旧庄科</td></tr><tr><td>地理经度</td><td>1033504</td></tr><tr><td>地理纬度</td><td>230036</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.584,23.0064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>屏边县新寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>135</td></tr><tr><td>矿床名称</td><td>屏边县新寨</td></tr><tr><td>地理经度</td><td>1033434</td></tr><tr><td>地理纬度</td><td>230124</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.568,23.0231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>坡地</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>136</td></tr><tr><td>矿床名称</td><td>坡地</td></tr><tr><td>地理经度</td><td>1053643</td></tr><tr><td>地理纬度</td><td>233140</td></tr><tr><td>矿床成因类</td><td>淋积、锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.601,23.5231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>七棵树</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>137</td></tr><tr><td>矿床名称</td><td>七棵树</td></tr><tr><td>地理经度</td><td>1031227</td></tr><tr><td>地理纬度</td><td>233435</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.201,23.5731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>期路白</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>138</td></tr><tr><td>矿床名称</td><td>期路白</td></tr><tr><td>地理经度</td><td>1033303</td></tr><tr><td>地理纬度</td><td>231221</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.551,23.2064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>青苗湾</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>139</td></tr><tr><td>矿床名称</td><td>青苗湾</td></tr><tr><td>地理经度</td><td>1053045</td></tr><tr><td>地理纬度</td><td>232534</td></tr><tr><td>矿床成因类</td><td>锰帽、迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（∈3t</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.501,23.4231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>清水塘</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>140</td></tr><tr><td>矿床名称</td><td>清水塘</td></tr><tr><td>地理经度</td><td>1033258</td></tr><tr><td>地理纬度</td><td>235018</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.534,23.8397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>情报站</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>141</td></tr><tr><td>矿床名称</td><td>情报站</td></tr><tr><td>地理经度</td><td>1044228</td></tr><tr><td>地理纬度</td><td>230641</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.701,23.1064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>丘北县南尾</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>142</td></tr><tr><td>矿床名称</td><td>丘北县南尾</td></tr><tr><td>地理经度</td><td>1041219</td></tr><tr><td>地理纬度</td><td>241816</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T3f</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.201,24.3067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>渠德锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>143</td></tr><tr><td>矿床名称</td><td>渠德锰矿点</td></tr><tr><td>地理经度</td><td>1065400</td></tr><tr><td>地理纬度</td><td>231730</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.902,23.2897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>壬庄</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>144</td></tr><tr><td>矿床名称</td><td>壬庄</td></tr><tr><td>地理经度</td><td>1064200</td></tr><tr><td>地理纬度</td><td>235700</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.702,23.9564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>荣劳锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>145</td></tr><tr><td>矿床名称</td><td>荣劳锰矿点</td></tr><tr><td>地理经度</td><td>1060900</td></tr><tr><td>地理纬度</td><td>230800</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.152,23.1397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>三保寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>146</td></tr><tr><td>矿床名称</td><td>三保寨</td></tr><tr><td>地理经度</td><td>1043555</td></tr><tr><td>地理纬度</td><td>230409</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D）</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.584,23.0731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>三岔河</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>147</td></tr><tr><td>矿床名称</td><td>三岔河</td></tr><tr><td>地理经度</td><td>1054148</td></tr><tr><td>地理纬度</td><td>232843</td></tr><tr><td>矿床成因类</td><td>迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P1w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.685,23.4731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>三光</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>148</td></tr><tr><td>矿床名称</td><td>三光</td></tr><tr><td>地理经度</td><td>1044457</td></tr><tr><td>地理纬度</td><td>231949</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.3231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>沙坝</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>149</td></tr><tr><td>矿床名称</td><td>沙坝</td></tr><tr><td>地理经度</td><td>1053308</td></tr><tr><td>地理纬度</td><td>232226</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（∈3t</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.551,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>上洛</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>150</td></tr><tr><td>矿床名称</td><td>上洛</td></tr><tr><td>地理经度</td><td>1074743</td></tr><tr><td>地理纬度</td><td>242728</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.785,24.4567,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>上莫武</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>151</td></tr><tr><td>矿床名称</td><td>上莫武</td></tr><tr><td>地理经度</td><td>1045034</td></tr><tr><td>地理纬度</td><td>233215</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.834,23.5397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>上朔</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>152</td></tr><tr><td>矿床名称</td><td>上朔</td></tr><tr><td>地理经度</td><td>1075622</td></tr><tr><td>地理纬度</td><td>232418</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.935,23.4064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>舍得</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>153</td></tr><tr><td>矿床名称</td><td>舍得</td></tr><tr><td>地理经度</td><td>1035145</td></tr><tr><td>地理纬度</td><td>241451</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.851,24.24,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>石床</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>154</td></tr><tr><td>矿床名称</td><td>石床</td></tr><tr><td>地理经度</td><td>1041039</td></tr><tr><td>地理纬度</td><td>241856</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.168,24.3067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>石坎村</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>155</td></tr><tr><td>矿床名称</td><td>石坎村</td></tr><tr><td>地理经度</td><td>1033439</td></tr><tr><td>地理纬度</td><td>241159</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T2f↑b</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.568,24.19,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>石硪</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>156</td></tr><tr><td>矿床名称</td><td>石硪</td></tr><tr><td>地理经度</td><td>1044035</td></tr><tr><td>地理纬度</td><td>231819</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.668,23.3064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>史母</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>157</td></tr><tr><td>矿床名称</td><td>史母</td></tr><tr><td>地理经度</td><td>1032923</td></tr><tr><td>地理纬度</td><td>235942</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.484,23.9897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世加</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>158</td></tr><tr><td>矿床名称</td><td>世加</td></tr><tr><td>地理经度</td><td>1065104</td></tr><tr><td>地理纬度</td><td>240853</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1y</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.852,24.14,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>树林寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>159</td></tr><tr><td>矿床名称</td><td>树林寨</td></tr><tr><td>地理经度</td><td>1031345</td></tr><tr><td>地理纬度</td><td>241800</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（C2）</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.218,24.3067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>松村</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>160</td></tr><tr><td>矿床名称</td><td>松村</td></tr><tr><td>地理经度</td><td>1075639</td></tr><tr><td>地理纬度</td><td>232616</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.935,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>太平寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>161</td></tr><tr><td>矿床名称</td><td>太平寨</td></tr><tr><td>地理经度</td><td>1035020</td></tr><tr><td>地理纬度</td><td>231106</td></tr><tr><td>矿床成因类</td><td>沉积变质？</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Ptf（哀</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.834,23.1897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>汤得</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>162</td></tr><tr><td>矿床名称</td><td>汤得</td></tr><tr><td>地理经度</td><td>1040044</td></tr><tr><td>地理纬度</td><td>233060</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.001,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>田达</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>163</td></tr><tr><td>矿床名称</td><td>田达</td></tr><tr><td>地理经度</td><td>1053146</td></tr><tr><td>地理纬度</td><td>233151</td></tr><tr><td>矿床成因类</td><td>迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.518,23.5231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>驮堪锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>164</td></tr><tr><td>矿床名称</td><td>驮堪锰矿点</td></tr><tr><td>地理经度</td><td>1071600</td></tr><tr><td>地理纬度</td><td>231030</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.269,23.1731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>瓦云寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>165</td></tr><tr><td>矿床名称</td><td>瓦云寨</td></tr><tr><td>地理经度</td><td>1033220</td></tr><tr><td>地理纬度</td><td>235003</td></tr><tr><td>矿床成因类</td><td>沉积、锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.534,23.8397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>旺江</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>166</td></tr><tr><td>矿床名称</td><td>旺江</td></tr><tr><td>地理经度</td><td>1075926</td></tr><tr><td>地理纬度</td><td>232649</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床-</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.985,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>渭响</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>167</td></tr><tr><td>矿床名称</td><td>渭响</td></tr><tr><td>地理经度</td><td>1054430</td></tr><tr><td>地理纬度</td><td>234230</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.735,23.7064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>下叭答</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>168</td></tr><tr><td>矿床名称</td><td>下叭答</td></tr><tr><td>地理经度</td><td>1054334</td></tr><tr><td>地理纬度</td><td>233905</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.718,23.6564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>下怀宁</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>169</td></tr><tr><td>矿床名称</td><td>下怀宁</td></tr><tr><td>地理经度</td><td>1053916</td></tr><tr><td>地理纬度</td><td>234212</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D1p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.651,23.7064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>下纸厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>170</td></tr><tr><td>矿床名称</td><td>下纸厂</td></tr><tr><td>地理经度</td><td>1030030</td></tr><tr><td>地理纬度</td><td>232640</td></tr><tr><td>矿床成因类</td><td>热液型</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.001,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>吓洞</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>171</td></tr><tr><td>矿床名称</td><td>吓洞</td></tr><tr><td>地理经度</td><td>1053414</td></tr><tr><td>地理纬度</td><td>233659</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（Ptm</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.568,23.6064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>仙桥</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>172</td></tr><tr><td>矿床名称</td><td>仙桥</td></tr><tr><td>地理经度</td><td>1075153</td></tr><tr><td>地理纬度</td><td>232201</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>p1-q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.852,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>仙桥</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>173</td></tr><tr><td>矿床名称</td><td>仙桥</td></tr><tr><td>地理经度</td><td>1075247</td></tr><tr><td>地理纬度</td><td>232210</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1m-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.869,23.3731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小坝心</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>174</td></tr><tr><td>矿床名称</td><td>小坝心</td></tr><tr><td>地理经度</td><td>1034518</td></tr><tr><td>地理纬度</td><td>235353</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.751,23.8897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小长冲</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>175</td></tr><tr><td>矿床名称</td><td>小长冲</td></tr><tr><td>地理经度</td><td>1031560</td></tr><tr><td>地理纬度</td><td>241550</td></tr><tr><td>矿床成因类</td><td>沉积、淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（C2）</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.251,24.2567,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小海子</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>176</td></tr><tr><td>矿床名称</td><td>小海子</td></tr><tr><td>地理经度</td><td>1043305</td></tr><tr><td>地理纬度</td><td>235421</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.551,23.9064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小木匠</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>177</td></tr><tr><td>矿床名称</td><td>小木匠</td></tr><tr><td>地理经度</td><td>1053139</td></tr><tr><td>地理纬度</td><td>232759</td></tr><tr><td>矿床成因类</td><td>沉积—淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P2w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.518,23.4564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小石城</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>178</td></tr><tr><td>矿床名称</td><td>小石城</td></tr><tr><td>地理经度</td><td>1033401</td></tr><tr><td>地理纬度</td><td>241941</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.568,24.3233,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小锡厂</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>179</td></tr><tr><td>矿床名称</td><td>小锡厂</td></tr><tr><td>地理经度</td><td>1043217</td></tr><tr><td>地理纬度</td><td>231922</td></tr><tr><td>矿床成因类</td><td>沉积、淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.534,23.3231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>新黎</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>180</td></tr><tr><td>矿床名称</td><td>新黎</td></tr><tr><td>地理经度</td><td>1075726</td></tr><tr><td>地理纬度</td><td>232437</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床-</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>P1-Q</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.952,23.4064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>新寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>181</td></tr><tr><td>矿床名称</td><td>新寨</td></tr><tr><td>地理经度</td><td>1034055</td></tr><tr><td>地理纬度</td><td>232839</td></tr><tr><td>矿床成因类</td><td>沉积、淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.668,23.4731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>丫口寨</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>182</td></tr><tr><td>矿床名称</td><td>丫口寨</td></tr><tr><td>地理经度</td><td>1033050</td></tr><tr><td>地理纬度</td><td>234921</td></tr><tr><td>矿床成因类</td><td>沉积、锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.501,23.8231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岩怀</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>183</td></tr><tr><td>矿床名称</td><td>岩怀</td></tr><tr><td>地理经度</td><td>1054423</td></tr><tr><td>地理纬度</td><td>233051</td></tr><tr><td>矿床成因类</td><td>淋积、迁积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（P1w</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.735,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>扬柳河</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>184</td></tr><tr><td>矿床名称</td><td>扬柳河</td></tr><tr><td>地理经度</td><td>1034006</td></tr><tr><td>地理纬度</td><td>232623</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D2d</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.668,23.4397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>依屯锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>185</td></tr><tr><td>矿床名称</td><td>依屯锰矿点</td></tr><tr><td>地理经度</td><td>1065700</td></tr><tr><td>地理纬度</td><td>231000</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C、D</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.952,23.1731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>雨托店</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>186</td></tr><tr><td>矿床名称</td><td>雨托店</td></tr><tr><td>地理经度</td><td>1031260</td></tr><tr><td>地理纬度</td><td>242240</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>E2la</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.201,24.3733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岳圩</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>187</td></tr><tr><td>矿床名称</td><td>岳圩</td></tr><tr><td>地理经度</td><td>1063200</td></tr><tr><td>地理纬度</td><td>235840</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.535,23.9731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>寨律</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>188</td></tr><tr><td>矿床名称</td><td>寨律</td></tr><tr><td>地理经度</td><td>1074528</td></tr><tr><td>地理纬度</td><td>243006</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.752,24.5067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>者郞</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>189</td></tr><tr><td>矿床名称</td><td>者郞</td></tr><tr><td>地理经度</td><td>1053335</td></tr><tr><td>地理纬度</td><td>234143</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（D2p</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.551,23.6897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中厂坝</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>190</td></tr><tr><td>矿床名称</td><td>中厂坝</td></tr><tr><td>地理经度</td><td>1045249</td></tr><tr><td>地理纬度</td><td>233043</td></tr><tr><td>矿床成因类</td><td>淋积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>Q（T22</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.868,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>竹菁塘</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>191</td></tr><tr><td>矿床名称</td><td>竹菁塘</td></tr><tr><td>地理经度</td><td>1035207</td></tr><tr><td>地理纬度</td><td>235001</td></tr><tr><td>矿床成因类</td><td>沉积</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T31</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>滇东南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				103.867,23.8397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>作登锰矿点</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>192</td></tr><tr><td>矿床名称</td><td>作登锰矿点</td></tr><tr><td>地理经度</td><td>1070100</td></tr><tr><td>地理纬度</td><td>232700</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>T</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.019,23.4564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>193</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1054137</td></tr><tr><td>地理纬度</td><td>252258</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.685,25.3736,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>194</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1044422</td></tr><tr><td>地理纬度</td><td>250446</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,25.0736,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>195</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1053109</td></tr><tr><td>地理纬度</td><td>244221</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C2h</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.518,24.7067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>196</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1053020</td></tr><tr><td>地理纬度</td><td>251710</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.501,25.2903,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>197</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1073414</td></tr><tr><td>地理纬度</td><td>245909</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.569,24.99,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>198</td></tr><tr><td>矿床名称</td><td></td></tr><tr><td>地理经度</td><td>1073559</td></tr><tr><td>地理纬度</td><td>245803</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>513</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.585,24.9733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>洞岜锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>199</td></tr><tr><td>矿床名称</td><td>洞岜锰矿</td></tr><tr><td>地理经度</td><td>1064507</td></tr><tr><td>地理纬度</td><td>230138</td></tr><tr><td>矿床成因类</td><td>堆积型</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D、Q</td></tr><tr><td>资源量（千吨）</td><td>206.4</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.752,23.0231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>波州锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>200</td></tr><tr><td>矿床名称</td><td>波州锰矿</td></tr><tr><td>地理经度</td><td>1064325</td></tr><tr><td>地理纬度</td><td>230025</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>146.9</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.718,23.0064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>念团锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>201</td></tr><tr><td>矿床名称</td><td>念团锰矿</td></tr><tr><td>地理经度</td><td>1064100</td></tr><tr><td>地理纬度</td><td>225800</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>D</td></tr><tr><td>资源量（千吨）</td><td>112.2</td></tr><tr><td>资料来源</td><td>桂西南专题提供</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.685,22.9728,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>田东县义圩锰矿区</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>202</td></tr><tr><td>矿床名称</td><td>田东县义圩锰矿区</td></tr><tr><td>地理经度</td><td>1071020</td></tr><tr><td>地理纬度</td><td>235530</td></tr><tr><td>矿床成因类</td><td>锰帽</td></tr><tr><td>矿床规模</td><td>5</td></tr><tr><td>成矿时代</td><td>C、Q</td></tr><tr><td>资源量（千吨）</td><td>54</td></tr><tr><td>资料来源</td><td>中国优质锰矿数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.169,23.9231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>安索锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>203</td></tr><tr><td>矿床名称</td><td>安索锰矿</td></tr><tr><td>地理经度</td><td>1054426</td></tr><tr><td>地理纬度</td><td>233908</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>C↓2→</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.735,23.6564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>芭芭坳</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>204</td></tr><tr><td>矿床名称</td><td>芭芭坳</td></tr><tr><td>地理经度</td><td>1044344</td></tr><tr><td>地理纬度</td><td>230506</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>∈</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.718,23.0897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>白石岩</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>205</td></tr><tr><td>矿床名称</td><td>白石岩</td></tr><tr><td>地理经度</td><td>1044420</td></tr><tr><td>地理纬度</td><td>230811</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>∈</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.1397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>北竞</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>206</td></tr><tr><td>矿床名称</td><td>北竞</td></tr><tr><td>地理经度</td><td>1075902</td></tr><tr><td>地理纬度</td><td>213806</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>S1</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.985,21.6392,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>布玉</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>207</td></tr><tr><td>矿床名称</td><td>布玉</td></tr><tr><td>地理经度</td><td>1041056</td></tr><tr><td>地理纬度</td><td>241555</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>T3f</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.168,24.2567,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大旺</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>208</td></tr><tr><td>矿床名称</td><td>大旺</td></tr><tr><td>地理经度</td><td>1065034</td></tr><tr><td>地理纬度</td><td>231409</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>T2P</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				106.835,23.2397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>豆鼓店</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>209</td></tr><tr><td>矿床名称</td><td>豆鼓店</td></tr><tr><td>地理经度</td><td>1044455</td></tr><tr><td>地理纬度</td><td>230319</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>∈</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.0564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>峨科麻锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>210</td></tr><tr><td>矿床名称</td><td>峨科麻锰矿</td></tr><tr><td>地理经度</td><td>1043451</td></tr><tr><td>地理纬度</td><td>233414</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>D2</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.568,23.5731,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>发达寨锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>211</td></tr><tr><td>矿床名称</td><td>发达寨锰矿</td></tr><tr><td>地理经度</td><td>1052539</td></tr><tr><td>地理纬度</td><td>233212</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>D↓1→</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.418,23.5397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>广南县那朵</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>212</td></tr><tr><td>矿床名称</td><td>广南县那朵</td></tr><tr><td>地理经度</td><td>1045853</td></tr><tr><td>地理纬度</td><td>240635</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.968,24.1067,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>胡广箐</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>213</td></tr><tr><td>矿床名称</td><td>胡广箐</td></tr><tr><td>地理经度</td><td>1040325</td></tr><tr><td>地理纬度</td><td>231524</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.051,23.2564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>鸡咀山锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>214</td></tr><tr><td>矿床名称</td><td>鸡咀山锰矿</td></tr><tr><td>地理经度</td><td>1053320</td></tr><tr><td>地理纬度</td><td>233202</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>P↓1→</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.551,23.5397,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>魁卜锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>215</td></tr><tr><td>矿床名称</td><td>魁卜锰矿</td></tr><tr><td>地理经度</td><td>1055134</td></tr><tr><td>地理纬度</td><td>232143</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.851,23.3564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>理达锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>216</td></tr><tr><td>矿床名称</td><td>理达锰矿</td></tr><tr><td>地理经度</td><td>1053245</td></tr><tr><td>地理纬度</td><td>233130</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>P↓1→</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.535,23.5231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>梁子锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>217</td></tr><tr><td>矿床名称</td><td>梁子锰矿</td></tr><tr><td>地理经度</td><td>1045348</td></tr><tr><td>地理纬度</td><td>233055</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>D2</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.884,23.5064,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>六一</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>218</td></tr><tr><td>矿床名称</td><td>六一</td></tr><tr><td>地理经度</td><td>1071540</td></tr><tr><td>地理纬度</td><td>240808</td></tr><tr><td>矿床成因类</td><td>生物化学沉积矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>C1</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.252,24.14,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>龙洋锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>219</td></tr><tr><td>矿床名称</td><td>龙洋锰矿</td></tr><tr><td>地理经度</td><td>1054219</td></tr><tr><td>地理纬度</td><td>232534</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.701,23.4231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>漫马锰</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>220</td></tr><tr><td>矿床名称</td><td>漫马锰</td></tr><tr><td>地理经度</td><td>1043656</td></tr><tr><td>地理纬度</td><td>230711</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>∈</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.601,23.1231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>弄瞧</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>221</td></tr><tr><td>矿床名称</td><td>弄瞧</td></tr><tr><td>地理经度</td><td>1073636</td></tr><tr><td>地理纬度</td><td>241039</td></tr><tr><td>矿床成因类</td><td>淋积矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>Q</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.602,24.1733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>丘北县小阿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>222</td></tr><tr><td>矿床名称</td><td>丘北县小阿</td></tr><tr><td>地理经度</td><td>1041235</td></tr><tr><td>地理纬度</td><td>241633</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.201,24.2733,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>水头</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>223</td></tr><tr><td>矿床名称</td><td>水头</td></tr><tr><td>地理经度</td><td>1040800</td></tr><tr><td>地理纬度</td><td>241443</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>T3f</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.134,24.24,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>坛攀</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>224</td></tr><tr><td>矿床名称</td><td>坛攀</td></tr><tr><td>地理经度</td><td>1075716</td></tr><tr><td>地理纬度</td><td>223810</td></tr><tr><td>矿床成因类</td><td>海相沉积矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>D3</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				107.952,22.6394,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>团保锰矿</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>225</td></tr><tr><td>矿床名称</td><td>团保锰矿</td></tr><tr><td>地理经度</td><td>1053604</td></tr><tr><td>地理纬度</td><td>233311</td></tr><tr><td>矿床成因类</td><td>沉积锰矿床</td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				105.601,23.5564,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>销龙桥</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>226</td></tr><tr><td>矿床名称</td><td>销龙桥</td></tr><tr><td>地理经度</td><td>1040856</td></tr><tr><td>地理纬度</td><td>231332</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td></td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.134,23.2231,0
+			</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中南辉</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>序号</td><td>227</td></tr><tr><td>矿床名称</td><td>中南辉</td></tr><tr><td>地理经度</td><td>1044436</td></tr><tr><td>地理纬度</td><td>230552</td></tr><tr><td>矿床成因类</td><td></td></tr><tr><td>矿床规模</td><td>6</td></tr><tr><td>成矿时代</td><td>∈</td></tr><tr><td>资源量（千吨）</td><td>37</td></tr><tr><td>资料来源</td><td>1:20万数字地质图空间数据库</td></tr></table>
+]]>
+
+		</description>
+		<Point>
+			<coordinates>
+				104.734,23.0897,0
+			</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

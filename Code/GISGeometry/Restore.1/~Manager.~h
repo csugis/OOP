@@ -1,0 +1,91 @@
+// Manager.h: interface for the CManager class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#if !defined(AFX_MANAGER_H__36E48F48_477D_4B72_9B2C_FABEC5EC6096__INCLUDED_)
+#define AFX_MANAGER_H__36E48F48_477D_4B72_9B2C_FABEC5EC6096__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#endif // _MSC_VER > 1000
+
+#include "Layer.h"
+
+//颜色结构
+typedef struct
+{
+	int r;
+	int g;
+	int b;
+}ColorStruct;
+
+ifstream& operator >> (ifstream&, ColorStruct&);
+ofstream& operator << (ofstream&, const ColorStruct&);
+
+class CManager  
+{
+	vector<CLayer*> m_vMaps;
+	vector<ColorStruct> m_vClrs;
+	ColorStruct m_clrInvalid;//错误返回使用
+public:
+	CManager();
+	virtual ~CManager() {DeleteLayers(); DeleteColors();}
+	//属性获取函数
+	int GetLayerNum(void) const {return m_vMaps.size();}
+	CLayer* GetLayer(int index) {
+		if(index>=0&&index<GetLayerNum()){
+			return m_vMaps[index];} 
+		return NULL;}
+	CLayer* GetLayerByID(short id){
+		for(int i=0; i<GetLayerNum(); i++){
+			if(m_vMaps[i]->GetID()==id){
+				return m_vMaps[i];}} 
+		return NULL;}
+	int GetColorNum(void) const {return m_vClrs.size();}
+	ColorStruct& GetColor(short index){
+		if(index>=0&&index<GetColorNum()){
+			return m_vClrs[index];} 
+		return m_clrInvalid;}
+	//属性设置函数
+	//插入一个图层
+	void InsertLayers(CLayer* layer) {m_vMaps.push_back(layer);}
+	void InsertLayers(int index, CLayer* layer) {
+		if(index>=0&&index<GetLayerNum()){
+			m_vMaps.insert(m_vMaps.begin()+index,layer);}
+		else InsertLayers(layer);}
+	//删除一个图层
+	void DeleteLayers(int index) {
+		if(index>=0&&index<GetLayerNum()){
+			CLayer *p=m_vMaps[index];
+			if(p!=NULL) delete p;
+			m_vMaps.erase(m_vMaps.begin()+index);}}
+	//删除所有图层
+	void DeleteLayers(void) {
+		for(int i=0; i<GetLayerNum(); i++){
+			CLayer* p=m_vMaps[i];
+			if(p!=NULL) delete p;}
+		m_vMaps.clear();}
+	//从文件中读取一个图层
+	void OpenMap(const char* szFileName);
+	//保存一个图层到文件中
+	void SaveMap(int index, const char* szFileName);
+	void SaveMapByID(short id, const char* szFileName){
+		for(int i=0; i<GetLayerNum(); i++){
+			if(m_vMaps[i]->GetID()==id){
+				SaveMap(i,szFileName); break;}}}
+	//修改颜色值
+	void ModColor(int index, ColorStruct& clr) {}//自行实现
+	//插入一个颜色值
+	void InsertColors(ColorStruct& clr) {m_vClrs.push_back(clr);}
+	void InsertColors(int index, ColorStruct& pt) {}//自行实现
+	//删除一个颜色值
+	void DeleteColors(int index) {}//自行实现
+	//删除所有颜色值
+	void DeleteColors(void) {m_vClrs.clear();}
+	//从文件中读取颜色表
+	void OpenClrTable(const char* szFileName="colors.txt");
+	//保存颜色表到文件中
+	void SaveClrTable(const char* szFileName="colors.txt");
+};
+
+#endif // !defined(AFX_MANAGER_H__36E48F48_477D_4B72_9B2C_FABEC5EC6096__INCLUDED_)

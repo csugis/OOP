@@ -1,0 +1,65 @@
+// Manager.cpp: implementation of the CManager class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "Manager.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CManager::CManager()
+{
+
+}
+
+
+//从文件中读取一个图层
+void CManager::OpenMap(const char* szFileName)
+{
+	ifstream infile(szFileName,ios::in);
+	CLayer *layer = new CLayer;
+	layer->GetFromFile(infile);
+	infile.close();
+	InsertLayers(layer);
+}
+//保存一个图层到文件中
+void CManager::SaveMap(int index, const char* szFileName)
+{
+	if(index>=0&&index<GetLayerNum())
+	{
+		ofstream outfile(szFileName,ios::out);
+		GetLayer(index)->PutToFile(outfile);
+		outfile.close();
+	}
+}
+
+ifstream& operator >> (ifstream& infile, ColorStruct& clr)
+{
+	infile>>clr.r>>clr.g>>clr.b;
+	return infile;
+}
+ofstream& operator << (ofstream& outfile, const ColorStruct& clr)
+{
+	outfile<<clr.r<<" "<<clr.g<<" "<<clr.b<<endl;
+	return outfile;
+}
+
+//从文件中读取一个图层
+void CManager::OpenClrTable(const char* szFileName)
+{
+	ifstream infile(szFileName,ios::in);
+	ColorStruct clr;
+	while(infile>>clr)
+		InsertColors(clr);
+	infile.close();
+}
+//保存一个图层到文件中
+void CManager::SaveClrTable(const char* szFileName)
+{
+	ofstream outfile(szFileName,ios::out);
+	for(int i=0; i<GetColorNum(); i++)
+		outfile<<GetColor(i);
+	outfile.close();
+}

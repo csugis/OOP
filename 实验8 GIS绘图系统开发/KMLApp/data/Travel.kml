@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+	<name>Travel</name>
+	<Placemark>
+		<name>LineString Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+		<Polygon>
+			<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+					294,135,0
+					505,222,0
+					520,393,0
+					342,512,0
+					234,439,0
+					121,273,0
+					175,192,0
+				</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>LineString Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+		<Polygon>
+			<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+					855,139,0
+					1234,235,0
+					1193,435,0
+					1089,528,0
+					853,495,0
+					810,404,0
+					749,250,0
+					785,115,0
+				</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>LineString Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+		<Polygon>
+			<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+					1465,130,0
+					1674,250,0
+					1715,470,0
+					1522,523,0
+					1476,438,0
+					1351,273,0
+				</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>LineString Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+		<LineString>
+			<coordinates>
+				427,84,0
+				692,329,0
+				694,539,0
+				796,748,0
+				950,787,0
+				952,788,0
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>LineString Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+		<LineString>
+			<coordinates>
+				1220,83,0
+				1349,229,0
+				1324,435,0
+				1520,740,0
+				1562,758,0
+				1715,715,0
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Point Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+<Point>
+	<coordinates>
+		328.000000,260.000000,0.000000
+	</coordinates>
+</Point>
+	</Placemark>
+	<Placemark>
+		<name>Point Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+<Point>
+	<coordinates>
+		965.000000,310.000000,0.000000
+	</coordinates>
+</Point>
+	</Placemark>
+	<Placemark>
+		<name>Point Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+<Point>
+	<coordinates>
+		1586.000000,326.000000,0.000000
+	</coordinates>
+</Point>
+	</Placemark>
+	<Placemark>
+		<name>Point Placemark</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+<Point>
+	<coordinates>
+		1196.000000,636.000000,0.000000
+	</coordinates>
+</Point>
+	</Placemark>
+</Document>
+</kml>

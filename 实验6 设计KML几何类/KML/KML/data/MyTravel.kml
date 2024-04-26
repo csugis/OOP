@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MyLife</name>
+	<Placemark id="0170C949A22FCF291617">
+		<name>MyTravel</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>MyLife</td></tr><tr><td>Description</td><td>From High School Student to Teacher</td></tr></table>
+]]>
+		</description>
+		<LineString>
+			<coordinates>
+				123.8572703216508,42.28501533317936,0 125.3293814352055,43.82449078673839,0 116.3989528662189,39.90679877909136,0 114.3093104658678,30.58756795260498,0 112.9440466252299,28.2307619179953,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="07F392DE2C2FCF32E910">
+		<name>High School Student</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>Changtu Second High School</td></tr><tr><td>Year</td><td>From 1994 to 1997</td></tr></table>
+]]>
+		</description>
+		<Point>
+			<coordinates>123.8413744835664,42.29948834598726,21.40025804868842</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F639749442FCF339D03">
+		<name>Undergraduate Student</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>Jilin University</td></tr><tr><td>Year</td><td>From 1997 to 2001</td></tr></table>
+]]>
+		</description>
+		<Point>
+			<coordinates>125.3247266870665,43.82707805584317,298.6143414423064</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C8D2D0CE2FCF340B8F">
+		<name>Master Student</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>China Earthquake Administration</td></tr><tr><td>Year</td><td>From 2001 to 2004</td></tr></table>
+]]>
+		</description>
+		<Point>
+			<coordinates>116.4053561502408,39.90984636446531,118.903026163288</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03E79AD91B2FCF347B78">
+		<name>Doctor Student</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>China University of Geosciences, Wuhan</td></tr><tr><td>Year</td><td>From 2004 to 2007</td></tr></table>
+]]>
+		</description>
+		<Point>
+			<coordinates>114.3070986487402,30.60656137808306,185.8835080525946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C2F0222822FCF350462">
+		<name>Teacher</name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td>Name</td><td>Central South University</td></tr><tr><td>Year</td><td>From 2007 </td></tr></table>
+]]>
+		</description>
+		<MultiGeometry>
+		<Point>
+			<coordinates>112.9263069463163,28.17140163013354,49.68500526777492</coordinates>
+		</Point>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						112.9260794616284,28.17022005038296,0 112.9268617778295,28.17031146271855,0 112.9267345151172,28.17106396236869,0 112.925975513825,28.17096814752894,0 112.9260794616284,28.17022005038296,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

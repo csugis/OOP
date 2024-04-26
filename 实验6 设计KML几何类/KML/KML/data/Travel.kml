@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+	<name>MyTravel</name>
+	<Placemark>
+		<name></name>
+		<description>
+			<![CDATA[ 
+<table border="1" padding="3" width="300">
+<tr><td> Name </td><td> Travel </td></tr><tr><td> Year </td><td> From 2022 </td></tr></table>
+]]>
+
+		</description>
+<Point>
+	<coordinates>
+		123.850000,42.280000,0.000000
+	</coordinates>
+</Point>
+	</Placemark>
+</Document>
+</kml>

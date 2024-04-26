@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Container" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coord" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAEAAAAACEAAIhAAAAAAAAAAAQAAAAAAgAAE=</HashCode>
+      <FileName>Coord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Document" Collapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAABABCAAAAAAAAAIA=</HashCode>
+      <FileName>Document.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Feature" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAABAhEAAAISAAAAAAAACEAABAABAECERAAAA=</HashCode>
+      <FileName>Feature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Field" Collapsed="true">
+    <Position X="22.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAEAAAIAAAAAAEAgBAAAAEAAACgAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fields" Collapsed="true">
+    <Position X="22.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACBAAAACAAAgCAAOZAAAAAAAAAGAAACAAAAAAgAwgE=</HashCode>
+      <FileName>Fields.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAJACAAQAAAAAgAAAACAAwAAABAAAAAAAgAA=</HashCode>
+      <FileName>Geometry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinearRing" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAABAACIAAAAAgAAAACAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>LinearRing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineString" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAACIAAgAAgAAAACAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>LineString.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiGeometry" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACBAhAAAAAABAAAAAAACAMAABAAAAEAAAIAACA=</HashCode>
+      <FileName>MultiGeometry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAVAAgACgAAAAAAAgCRAAAAAAEQAAAQACCAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Placemark" Collapsed="true">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAIAABAAAAAAAAAKAAAICAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Placemark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAABAAgAACEAAghAAACAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polygon" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgABAAAAAAAAAAABAAKAAAAAACAAAgAAAAASA=</HashCode>
+      <FileName>Polygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Csv2Kml" Collapsed="true">
+    <Position X="22.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAMAAIIAABABAAEAACAIAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>Csv2Kml.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tArray&lt;T&gt;" Collapsed="true">
+    <Position X="20" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIACAAAAEIAAABAAAAEAAAAgAAAgAAIAAAA=</HashCode>
+      <FileName>tArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="indexGeometry" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAgAAAA=</HashCode>
+      <FileName>Csv2Kml.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Poly" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polygon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="AltitudeMode" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Geometry.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

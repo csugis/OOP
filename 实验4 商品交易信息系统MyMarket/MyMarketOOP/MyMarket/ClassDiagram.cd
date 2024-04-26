@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADCAAQAAAIABAAoCQAAAEAAAAAAAgASASAFAEA=</HashCode>
+      <FileName>AdminCenter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Account" Collapsed="true">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAQCAABgCCAQIACAAgAAAABAAAAAAEAAoJBFEA=</HashCode>
+      <FileName>CommonBusiness.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEACQAQCAAECAQAQAQgAYhAgAIMBAAggAQAAAARBAA=</HashCode>
+      <FileName>CustomerCenter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Merchant" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAABoBCCAAgAAEAAAA4wgAAAQkEgEEgUoAAgAABACU=</HashCode>
+      <FileName>MerchantCenter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
